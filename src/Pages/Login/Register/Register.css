@@ -1,0 +1,15 @@
+.signup{
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.signup input:not([type= 'checkbox']) {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    font-size: 20px;
+    padding: 5px;
+}
+/* .signup input[type= 'checkbox']{
+    margin-right: 10px;
+} */
